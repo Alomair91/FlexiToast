@@ -8,7 +8,7 @@ FlexiToast is a customizable toast notification library for Android. It allows d
 - Flexible positioning with top, center, and bottom options.
 - Ability to customize background colors, icon visibility, and more.
 
-<p> <img src="assets/success.gif" width="150" height="300"> <img src="assets/failure.gif" width="150" height="300"> <img src="assets/info.gif" width="150" height="300"> <img src="assets/warning.gif" width="150" height="300"> <img src="assets/custom.png" width="150" height="300"> <img src="assets/text_only.png" width="150" height="300"> </p>
+<p> <img src="assets/success.gif" width="200" height="400"> <img src="assets/failure.gif" width="200" height="400"> <img src="assets/info.gif" width="200" height="400"> <img src="assets/warning.gif" width="200" height="400"> <img src="assets/custom.png" width="200" height="400"> <img src="assets/text_only.png" width="200" height="400"> </p>
 
 ## Installation
 Add the following to your project's `build.gradle`:
@@ -16,7 +16,7 @@ Add the following to your project's `build.gradle`:
 [![](https://jitpack.io/v/Alomair91/FlexiToast.svg)](https://jitpack.io/#Alomair91/FlexiToast)
 
     dependencies {
-        implementation 'com.github.username:flexitoast:Tag'
+        implementation 'com.github.Alomair91:FlexiToast:Tag'
     }
 
 ## Usage
